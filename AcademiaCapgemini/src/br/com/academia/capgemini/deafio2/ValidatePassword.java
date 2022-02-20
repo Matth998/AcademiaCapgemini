@@ -30,7 +30,7 @@ public class ValidatePassword {
 	
 		if(validateDigit(password) == true) {
 			
-			System.out.println("Password Criated!");
+			System.out.println("User Criated!");
 			
 		}else {
 			
